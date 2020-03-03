@@ -1,0 +1,27 @@
+{
+  "name": "iamx-gcp-connector",
+  "version": "0.0.1",
+  "description": "GCP Connector for IAMX",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "bluebird": "3.7.2"
+  },
+  "devDependencies": {
+    "jsonschema": "1.2.5",
+    "mocha": "7.0.1",
+    "chai": "4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsdkkk/iamx-gcp-connector.git"
+  },
+  "author": "Edwin Tunggawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdsdkkk/iamx-gcp-connector/issues"
+  },
+  "homepage": "https://github.com/sdsdkkk/iamx-gcp-connector#readme"
+}
